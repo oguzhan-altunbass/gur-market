@@ -49,7 +49,8 @@ namespace gür_market
 
         private void müsteri_Click(object sender, EventArgs e)
         {
-           
+            alacak_verecek alacak_verecek = new alacak_verecek();
+            alacak_verecek.ShowDialog();
         }
 
         private void kasa_Click(object sender, EventArgs e)
