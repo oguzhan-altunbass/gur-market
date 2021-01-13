@@ -46,6 +46,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="alacak_verecek.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="alacak_verecek.Designer.cs" />
     <Compile Include="ana_sayfa.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -58,6 +62,18 @@
     <Compile Include="giris_sayfasi.Designer.cs">
       <DependentUpon>giris_sayfasi.cs</DependentUpon>
     </Compile>
+    <Compile Include="guvenlik_sifresi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="guvenlik_sifresi.Designer.cs" />
+    <Compile Include="musteri_borc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="musteri_borc.Designer.cs" />
+    <Compile Include="musteri_borc_guncelleme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="musteri_borc_guncelleme.Designer.cs" />
     <Compile Include="parasal_durum.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -78,6 +94,14 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="tedarikci_borc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tedarikci_borc.Designer.cs" />
+    <Compile Include="tedarik_sifre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tedarik_sifre.Designer.cs" />
     <Compile Include="urunAlis.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -102,12 +126,16 @@
     <Compile Include="yonetici_ekleme.Designer.cs">
       <DependentUpon>yonetici_ekleme.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="alacak_verecek.resx" />
     <EmbeddedResource Include="ana_sayfa.resx">
       <DependentUpon>ana_sayfa.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="giris_sayfasi.resx">
       <DependentUpon>giris_sayfasi.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="guvenlik_sifresi.resx" />
+    <EmbeddedResource Include="musteri_borc.resx" />
+    <EmbeddedResource Include="musteri_borc_guncelleme.resx" />
     <EmbeddedResource Include="parasal_durum.resx">
       <DependentUpon>parasal_durum.cs</DependentUpon>
     </EmbeddedResource>
@@ -127,6 +155,8 @@
     <EmbeddedResource Include="satis.resx">
       <DependentUpon>satis.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="tedarikci_borc.resx" />
+    <EmbeddedResource Include="tedarik_sifre.resx" />
     <EmbeddedResource Include="urunAlis.resx">
       <DependentUpon>urunAlis.cs</DependentUpon>
     </EmbeddedResource>

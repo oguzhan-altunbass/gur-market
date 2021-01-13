@@ -16,3 +16,27 @@ C:\Users\asdf\source\repos\gür market\gür market\obj\Debug\gür_market.urunSto
 C:\Users\asdf\source\repos\gür market\gür market\obj\Debug\gür_market.urunAlis.resources
 C:\Users\asdf\source\repos\gür market\gür market\obj\Debug\gür_market.yonetici_ekleme.resources
 C:\Users\asdf\source\repos\gür market\gür market\obj\Debug\gür_market.parasal_durum.resources
+C:\Users\ensar\Source\Repos\gur-market\gür market\bin\Debug\gür market.exe.config
+C:\Users\ensar\Source\Repos\gur-market\gür market\bin\Debug\gür market.exe
+C:\Users\ensar\Source\Repos\gur-market\gür market\bin\Debug\gür market.pdb
+C:\Users\ensar\Source\Repos\gur-market\gür market\obj\Debug\gür market.csprojAssemblyReference.cache
+C:\Users\ensar\Source\Repos\gur-market\gür market\obj\Debug\gür_market.alacak_verecek.resources
+C:\Users\ensar\Source\Repos\gur-market\gür market\obj\Debug\gür_market.ana_sayfa.resources
+C:\Users\ensar\Source\Repos\gur-market\gür market\obj\Debug\gür_market.giris_sayfasi.resources
+C:\Users\ensar\Source\Repos\gur-market\gür market\obj\Debug\gür_market.guvenlik_sifresi.resources
+C:\Users\ensar\Source\Repos\gur-market\gür market\obj\Debug\gür_market.musteri_borc.resources
+C:\Users\ensar\Source\Repos\gur-market\gür market\obj\Debug\gür_market.musteri_borc_guncelleme.resources
+C:\Users\ensar\Source\Repos\gur-market\gür market\obj\Debug\gür_market.parasal_durum.resources
+C:\Users\ensar\Source\Repos\gur-market\gür market\obj\Debug\gür_market.pesinSatis.resources
+C:\Users\ensar\Source\Repos\gur-market\gür market\obj\Debug\gür_market.Properties.Resources.resources
+C:\Users\ensar\Source\Repos\gur-market\gür market\obj\Debug\gür_market.satis.resources
+C:\Users\ensar\Source\Repos\gur-market\gür market\obj\Debug\gür_market.tedarikci_borc.resources
+C:\Users\ensar\Source\Repos\gur-market\gür market\obj\Debug\gür_market.tedarik_sifre.resources
+C:\Users\ensar\Source\Repos\gur-market\gür market\obj\Debug\gür_market.urunAlis.resources
+C:\Users\ensar\Source\Repos\gur-market\gür market\obj\Debug\gür_market.urunStokları.resources
+C:\Users\ensar\Source\Repos\gur-market\gür market\obj\Debug\gür_market.veresiyeSatis.resources
+C:\Users\ensar\Source\Repos\gur-market\gür market\obj\Debug\gür_market.yonetici_ekleme.resources
+C:\Users\ensar\Source\Repos\gur-market\gür market\obj\Debug\gür market.csproj.GenerateResource.cache
+C:\Users\ensar\Source\Repos\gur-market\gür market\obj\Debug\gür market.csproj.CoreCompileInputs.cache
+C:\Users\ensar\Source\Repos\gur-market\gür market\obj\Debug\gür market.exe
+C:\Users\ensar\Source\Repos\gur-market\gür market\obj\Debug\gür market.pdb
