@@ -35,5 +35,12 @@ namespace gür_market
             this.Hide();
             tedarikci_borc.ShowDialog();
         }
+
+       
+
+        private void alacak_verecek_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

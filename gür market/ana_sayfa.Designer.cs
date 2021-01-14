@@ -183,6 +183,7 @@ namespace gür_market
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "ana_sayfa";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Load += new System.EventHandler(this.ana_sayfa_Load);
             this.ResumeLayout(false);
 
         }

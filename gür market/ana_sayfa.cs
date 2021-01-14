@@ -58,5 +58,10 @@ namespace gür_market
             parasal_durum parasal_durum = new parasal_durum();
             parasal_durum.ShowDialog();
         }
+
+        private void ana_sayfa_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
